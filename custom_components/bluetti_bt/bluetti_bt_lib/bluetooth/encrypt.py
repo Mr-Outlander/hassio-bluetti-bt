@@ -1,5 +1,5 @@
 import logging
-import bluetti_crypt
+from . import bluetti_crypt
 from ctypes import *
 
 
